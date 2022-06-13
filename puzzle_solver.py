@@ -5,7 +5,7 @@ WHITE = 1
 BLACK = 0
 UNKWON_CELL = -1
 
-##################################
+
 INVALID = 0
 VALID = 1
 MAYBE_VALID = 2
