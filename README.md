@@ -2,8 +2,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hebrew_University_Logo.svg/1200px-Hebrew_University_Logo.svg.png" alt="huji-logo" height="150px" />
   <h1 align="center" style="border-bottom: none"><b>Introduction to Computer Science - Exercise 8 - Puzzle Solving </b></h1>
 
-  <div align="center">
-  <h1 align="center" style="border-bottom: none"><b>Exercise 8</b> - Puzzle Solving</h1>
 
   <p align="center">
     <b>Puzzle Solving</b> is the 8th exercise I've solved in Huji's <b>Introduction to Computer Science</b> course.
